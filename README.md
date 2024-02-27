@@ -34,5 +34,3 @@ The file has been saved!
 ## Troubleshooting
 - If you encounter any issues during the execution, ensure that Node.js is installed on your machine.
 - If the prompt cannot be rendered, check your terminal environment.
-
-Feel free to customize and extend this project based on your needs. Happy coding!
